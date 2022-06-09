@@ -45,22 +45,22 @@ body{
   object-fit: cover;
 }
 .button{
+  text-decoration: none;
   position: absolute;
   bottom: 8px;
   font-size: 17px;
-  width:120px;
+  padding: 10px 20px;
   text-align: center;
   background-color: black;
   color:white;
-  height:35px;
   border-color: black;
   border-radius: 5px;
   font-family: 'Poppins', sans-serif;
 }
-/* .button:hover{
+.button:hover{
   color: black;
   background-color: white;
-} */
+}
 .box{
   display: flex;
   padding-bottom: 5px;
