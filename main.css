@@ -45,6 +45,7 @@ body{
   object-fit: cover;
 }
 .button{
+  transition-duration: 800ms;
   text-decoration: none;
   position: absolute;
   bottom: 8px;
