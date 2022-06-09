@@ -74,3 +74,8 @@ h1{
   font-size: 25px;
   padding-left: 5px;
 }
+@media (max-width:900px) {
+  .cars{
+    flex-direction: column;
+  }
+}
