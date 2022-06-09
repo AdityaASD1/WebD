@@ -15,7 +15,7 @@ body{
 
 .car{
   position: relative;
-
+  transition-duration: 800ms;
   border-radius: 9px;
   width: 250px;
   height: 500px;
